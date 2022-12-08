@@ -1,0 +1,533 @@
+/* =============== Container =============== */
+.container-committee-CSS {
+  position: relative;
+  justify-content: center;
+  width: auto;
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
+.committee-h1-CSS {
+  font-size: 70px;
+  text-align: center;
+  color: #27709f;
+}
+
+.committee-h3-CSS {
+  font-size: 55px;
+  margin: 50px 50px;
+}
+
+.committee-h5-CSS,
+.committee-p-CSS {
+  font-size: 25px;
+  margin: 50px 50px;
+}
+
+
+/* =============== Section 1 =============== */
+.section1-committee-CSS {
+  justify-content: center;
+  width: auto;
+  color: white;
+  background-color: #27709f;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.tim-img-CSS {
+  height: 500px;
+  width: 500px;
+}
+
+
+/* =============== Section 2 =============== */
+.section2-committee-CSS {
+  justify-content: center;
+  width: auto;
+  background-color: #276f9f69;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.ian-img-CSS {
+  height: 500px;
+  width: 500px;
+}
+
+
+/* =============== Media Queries =============== */
+
+/* =============== Mobile View =============== */
+@media only screen and (250px <= width <= 425px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 35px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 25px;
+    margin: 25px 25px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 20px;
+    margin: 25px 25px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .tim-img-CSS {
+    height: 300px;
+    width: 300px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .ian-img-CSS {
+    height: 300px;
+    width: 300px;
+  }
+}
+
+
+
+@media only screen and (426px <= width <= 499px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 35px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 25px;
+    margin: 25px 25px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 20px;
+    margin: 25px 25px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .tim-img-CSS {
+    height: 300px;
+    width: 300px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .ian-img-CSS {
+    height: 300px;
+    width: 300px;
+  }
+}
+
+
+
+@media only screen and (500px <= width <= 550px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 35px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 25px;
+    margin: 30px 30px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 20px;
+    margin: 30px 30px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .tim-img-CSS {
+    height: 400px;
+    width: 400px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .ian-img-CSS {
+    height: 400px;
+    width: 400px;
+  }
+}
+
+
+
+@media only screen and (600px <= width <= 650px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 35px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 25px;
+    margin: 40px 40px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 20px;
+    margin: 40px 40px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .tim-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .ian-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+}
+
+
+
+@media only screen and (710px <= width <= 767px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 35px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 25px;
+    margin: 45px 45px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 20px;
+    margin: 45px 45px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .tim-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .ian-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+}
+
+
+
+/* =============== Tablet View =============== */
+@media only screen and (768px <= width <= 1023px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 35px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 25px;
+    margin: 45px 45px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 20px;
+    margin: 45px 45px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .tim-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .ian-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+}
+
+
+
+@media only screen and (1024px <= width <= 1120px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 75px;
+    margin-bottom: 75px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 70px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 55px;
+    margin: 25px 25px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 25px;
+    margin: 25px 25px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+
+  .tim-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+
+  .ian-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+}
+
+
+
+@media only screen and (1121px <= width <= 1810px) {
+  /* Container */
+  .container-committee-CSS {
+    position: relative;
+    justify-content: center;
+    width: auto;
+    margin-top: 75px;
+    margin-bottom: 75px;
+  }
+
+  .committee-h1-CSS {
+    font-size: 70px;
+    text-align: center;
+    color: #27709f;
+  }
+
+  .committee-h3-CSS {
+    font-size: 55px;
+    margin: 25px 25px;
+  }
+
+  .committee-h5-CSS,
+  .committee-p-CSS {
+    font-size: 25px;
+    margin: 25px 25px;
+  }
+
+/* Section 1 */
+  .section1-committee-CSS {
+    justify-content: center;
+    width: auto;
+    color: white;
+    background-color: #27709f;
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+
+  .tim-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+
+/* Section 2 */
+  .section2-committee-CSS {
+    justify-content: center;
+    width: auto;
+    background-color: #276f9f69;
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+
+  .ian-img-CSS {
+    height: 500px;
+    width: 500px;
+  }
+}
+
+
